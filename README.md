@@ -2,5 +2,5 @@
 
 <h1>Hover board</h1>
 
-Open link:
-https://github.com/baronasalex/hover-board.github.io
+Open link: </br>
+https://baronasalex.github.io/hover-board.github.io/
